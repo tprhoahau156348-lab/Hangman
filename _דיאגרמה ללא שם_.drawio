@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="‫עמוד-1‬" id="_mgi7CoNZcYrIWgE-umF">
+    <mxGraphModel dx="1355" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-2" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-6" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="תפריט" vertex="1">
+          <mxGeometry height="30" width="120" x="370" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-4" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="יציאה" vertex="1">
+          <mxGeometry height="60" width="60" x="110" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="print(&quot;bai bai&quot;)" vertex="1">
+          <mxGeometry height="70" width="70" x="20" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-8" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="התחל לשחק" vertex="1">
+          <mxGeometry height="40" width="120" x="370" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="500" as="sourcePoint" />
+            <mxPoint x="430" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="המערכת בוחרת מילה רנדומלית ושמרת אותה במשתנה The_Word" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-13" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="פותח לולאת while&lt;div&gt;while len_random&amp;gt;0 and sum&amp;gt;0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-17" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-18" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;ממיר את The_Word ל-list&lt;/div&gt;מכין שלושה משתנים:&lt;div&gt;אחד (sum) שיכיל את מספר הנסיונות שאני נותן למשתמש לנסות לנחש&lt;br&gt;שני (len_random) ישמור את האורך של המילה הרנדומלית&lt;div&gt;ושלישי&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;מכין רשימה המורכבת רק מ-_ באורך של הרשימה The_Word&amp;nbsp; שנבחרה וקורא לה&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The_Word_2&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="420" x="220" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-29" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Q9d0_tRCqHee_ZkQIUF1-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="770" />
+              <mxPoint x="420" y="770" />
+              <mxPoint x="420" y="890" />
+              <mxPoint x="390" y="890" />
+            </Array>
+            <mxPoint x="390" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-40" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="799.9999999999998" y="580.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-43" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70.00000000000011" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="מבקש מהמשתמש שיזין אות ושולח לו את המשתנה של -_ שיראה כמה אותיות יש במילה&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="110" x="375" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-26" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="אם האות נמצאת ברשימה של המילה:&lt;div&gt;מוריד אחד מהמשתנה שסופר את האורך של המילה&lt;/div&gt;&lt;div&gt;ומסיר את האות מהרשימה המקורית (&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The_Word&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="640" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-42" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="אם האות לא נמצאת ברשימה&lt;div&gt;מסיר אחד ממשתנה הספירה של הנסיונות&lt;/div&gt;&lt;div&gt;מדפיס לו הודעה שהוא טעה&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="90" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-39" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="890" />
+            </Array>
+            <mxPoint x="800" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="מעדכן את המשתנה של ה-_ ושם באינדקס הנכון את האות שהוא בחר, ומדפיס לו אותו" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-31" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-33" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9d0_tRCqHee_ZkQIUF1-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-30" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="נגמר הלולאה&lt;div&gt;עושים תנאי, אם המשתמש len_random גדול מ-0&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="אם כן:&lt;div&gt;מדפיסים לו שהוא נכשל&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="אם לא מדפסים לו הודעת ברכה עם המילה&lt;div&gt;וכמה נסיונות נשארו לו לנחש (את המשתנה השני)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="90" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-38" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q9d0_tRCqHee_ZkQIUF1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-41" edge="1" parent="1" source="Q9d0_tRCqHee_ZkQIUF1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Q9d0_tRCqHee_ZkQIUF1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9d0_tRCqHee_ZkQIUF1-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="בודקים אם האות שנבחרה נמצאת ברשימה The_Word&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
